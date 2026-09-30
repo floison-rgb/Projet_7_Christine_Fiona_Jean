@@ -1,6 +1,6 @@
 # Projet_7_Christine_Fiona_Jean — HireGuard
 
-Project 7 — Prompt-injection red-team lab, adapté au cas **HireGuard**, un assistant RH qui présélectionne des CV.
+Project 7.2 — Prompt-injection red-team lab, adapté au cas **HireGuard**, un assistant RH qui présélectionne des CV.
 
 ## Contexte
 
